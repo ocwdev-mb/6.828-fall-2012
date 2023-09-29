@@ -1,0 +1,50 @@
+{
+  "term": "Fall",
+  "year": "2012",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Operating Systems"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Software Design and Engineering"
+    ]
+  ],
+  "legacy_uid": "2124fd38-e2dd-7e77-b300-a88e776d3c6f",
+  "instructors": {
+    "content": [
+      "ede88ef7-000d-170f-f2a3-05fc915d4eef"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "4a52efef-b94f-3abf-e18f-4a53cc2b74a7",
+    "website": "6-828-operating-system-engineering-fall-2012"
+  },
+  "course_title": "Operating System Engineering",
+  "course_description": "This course studies fundamental design and implementation ideas in the engineering of operating systems. Lectures are based on a study of UNIX and research papers. Topics include virtual memory, threads, context switches, kernels, interrupts, system calls, interprocess communication, coordination, and the interaction between software and hardware. Individual laboratory assignments involve implementation of a small operating system in C, with some x86 assembly.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.828",
+  "course_image_thumbnail": {
+    "content": "a7dd66c5-4447-7cf6-dd1f-afecc174e51f",
+    "website": "6-828-operating-system-engineering-fall-2012"
+  },
+  "learning_resource_types": [
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Projects with Examples",
+    "Programming Assignments"
+  ],
+  "site_uid": "dabd5609-34a1-4af9-ad38-9c4f02172d24",
+  "site_short_id": "6.828-fall-2012",
+  "title": "Course Metadata"
+}
